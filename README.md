@@ -42,7 +42,7 @@
 
 ### Projects I’m proud of
 - [Canopy](https://github.com/hnpf/canopy) – Rust CLI to visualize directory trees, interactive TUI, JSON/CSV export  
-![screenshots](https://raw.githubusercontent.com/hnpf/canopy/refs/heads/main/github/demos/demomain.png)
+![screenshots](https://raw.githubusercontent.com/hnpf/canopy/refs/heads/main/github/demos/demohelp.png)
 - [MeowMeow Sorter!](https://github.com/hnpf/meowmeow) – meowmeow! Sorter is a sorter tool written in Rust that just simply assigns your stuff to dedicated folders.. it makes your direcories look cool 
 - [Portfolio](https://github.com/hnpf/portfolio) – My personal website, nothing much! Uses Neo Brutalism as it's main design
 ![screenshot](https://github.com/hnpf/portfolio/blob/main/screenshots/imagelight.webp?raw=true)
