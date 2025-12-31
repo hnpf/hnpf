@@ -1,5 +1,6 @@
 [virex@paprika ~]$ whoami
-full stack dev * rust enthusiast * security researcher
+
+full stack dev * rust fan * security researcher
 
 ```
 
