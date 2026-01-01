@@ -8,7 +8,7 @@ full stack dev * rust fan * security researcher
 
   "status": "online",
 
-  "ide": "neovim, notepad",
+  "ide": "neovim, vscode, ag",
 
   "hardware": "AMD, INTEL, ASROCK",
 
