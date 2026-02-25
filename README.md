@@ -1,4 +1,4 @@
-[virex@paprika ~]$ whoami
+[kali@is-for-posers ~]$ whoami
 
 full stack dev * rust, java, and C fan * security researcher
 # happy late valentines!!
