@@ -1,16 +1,16 @@
 [virex@paprika ~]$ whoami
 
-full stack dev * rust fan * security researcher
+full stack dev * rust, java, and C fan * security researcher
 # happy late valentines!!
 ```
 
 {
 
-  "status": "online",
+  "status": "online 24/7",
 
-  "ide": "neovim, vscode, ag",
+  "ide": "Micro, GNOMEbuilder, vscodium",
 
-  "hardware": "AMD, INTEL, ASROCK",
+  "hardware": "AMD, INTEL",
 
   "atheist": true
 
@@ -19,19 +19,19 @@ full stack dev * rust fan * security researcher
 ```
 
 0x01 // system specs
-• os arch or void linux
+• os arch or fedora
 
-• shell zsh, fish + tmux
+• shell is literally just bash, sometimes zsh, or fish. all with plugins.
 
-• focus systems programming * cybersecurity * tui design
+• focus systems programming * cybersecurity * design * tech
 
 0x02 // bin
 0x03 // memory dump (projects)
-• canopy * visualizing directory trees but made in rust
+• Automate * the only working Wayland GNOME autoclicker. 
 
-• meowmeow sorter * rust based directory organizer - temporarily unmaintained 
+• Sysdupd * Have you ever wanted to update your system but forgot how? yeah.. I haven't, but you can still update with ease via Sysdupd! 
 
-• portfolio * material design 3, still updating
+• portfolio * adwaita, with often updates
 
 ```
 
