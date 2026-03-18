@@ -66,22 +66,23 @@ atheist     >  true
 
 ```bash
 [virex@shinigami ~]$ ls -la ~/projects/
-drwxr-xr-x  Automate/    # probably the only working Wayland GNOME autoclicker, period.
+drwxr-xr-x  beetrap/     # a tiny honeypot written in go. logs your friends and enemies with ease! 
 drwxr-xr-x  Sysdupd/     # cross-distro system updater. not that its useful, just nice to have.
-drwxr-xr-x  portfolio/   # m3e-styled, frequently updated.
+drwxr-xr-x  portfolio/   # a m3e inspired portfolio for cybersecurity.
+drwxr-xr-x  vclitools/   # a collection of handy CLI tools for humans who hate typing. 
 ```
 
 ---
 
 ```bash
-[virex@shinigami ~]$ while alive; do
+[virex@shinigami ~]$ cat main.rs
 
-loop {
-    code();
-    if someone_is_watching { enjoy(); }
-    sleep(Duration::from_secs(0)); // no breaks <3
-
-$0
+fn main() -> ! {
+    loop {
+        think();
+        build();
+        ship();
+    }
 }
 ```
 ```
