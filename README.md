@@ -7,7 +7,7 @@
  ▝▚▞▘ ▗▄█▄▖▐▌ ▐▌▐▙▄▄▖▗▞▘▝▚▖
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=full+stack+dev+%2F+systems+programmer;rust+%2B+java+%2B+C+enjoyer;security+researcher+%2F+not+a+kali+user;arch+btw+(or+fedora+depending+on+mood))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=full+stack+dev+%2F+systems+programmer;rust+%C2%B7+go+%C2%B7+typescript+enjoyer;security+researcher+%2F+not+a+kali+user;nix+btw+(or+arch+depending+on+mood))](https://git.io/typing-svg)
 
 </div>
 
