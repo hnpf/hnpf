@@ -14,7 +14,7 @@
 ---
 
 ```bash
-[virex@shinigami ~]$ cat /proc/self/identity
+[virex@root ~]$ cat /proc/self/identity
 
 role        >  full stack dev · security researcher · biology and systems nerd
 focus       >  systems programming · cybersecurity · design · tech
@@ -27,7 +27,7 @@ atheist     >  true
 ---
 
 ```bash
-[virex@shinigami ~]$ lspci | grep -i "tools"
+[virex@root ~]$ lspci | grep -i "tools"
 ```
 
 **Languages**
@@ -65,7 +65,7 @@ atheist     >  true
 ---
 
 ```bash
-[virex@shinigami ~]$ ls -la ~/projects/
+[virex@root ~]$ ls -la ~/projects/
 drwxr-xr-x  beetrap/     # a tiny honeypot written in go. logs your friends and enemies with ease! 
 drwxr-xr-x  Sysdupd/     # cross-distro system updater. not that its useful, just nice to have.
 drwxr-xr-x  portfolio/   # a m3e inspired portfolio for cybersecurity.
@@ -75,7 +75,7 @@ drwxr-xr-x  vclitools/   # a collection of handy CLI tools for humans who hate t
 ---
 
 ```bash
-[virex@shinigami ~]$ cat main.rs
+[virex@root ~]$ cat main.rs
 
 fn main() -> ! {
     loop {
