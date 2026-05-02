@@ -11,23 +11,14 @@
 
 </div>
 
----
-
-```bash
-[virex@root ~]$ cat /proc/self/identity
-
-role        >  full stack dev · security researcher · biology and systems nerd
-focus       >  systems programming · cybersecurity · design · tech
-hardware    >  AMD + INTEL
-atheist     >  true
-
-[kali@is-for-posers ~]$ 
 ```
-
----
-
-```bash
-[virex@root ~]$ lspci | grep -i "tools"
+      .   .                                 marx@virex.lol
+     / \ / \                                ---------------
+    (   v   )                               who i am: semi-fullstack multi-disciplinary designer
+     \     /                                interests: biology, cs, full-stack
+    /       \                               os: nix / arch (btw)
+    \       /                               wm: hyprland
+     '     '                                status: what's that?
 ```
 
 **Languages**
@@ -61,33 +52,3 @@ atheist     >  true
 ![GNOME Builder](https://img.shields.io/badge/GNOME_Builder-4A86CF?style=flat-square&logo=gnome&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-```bash
-[virex@root ~]$ ls -la ~/projects/
-drwxr-xr-x  beetrap/     # a tiny honeypot written in go. logs your friends and enemies with ease! 
-drwxr-xr-x  Sysdupd/     # cross-distro system updater. not that its useful, just nice to have.
-drwxr-xr-x  portfolio/   # a m3e inspired portfolio for cybersecurity.
-drwxr-xr-x  vclitools/   # a collection of handy CLI tools for humans who hate typing. 
-```
-
----
-
-```bash
-[virex@root ~]$ cat main.rs
-
-fn main() -> ! {
-    loop {
-        think();
-        build();
-        ship();
-    }
-}
-```
-```
-▗▖    ▗▄▖  ▗▄▄▖▗▄▄▄▖ ▗▄▄▖    ▗▄▄▄▖ ▗▄▄▖    ▗▄▄▄▖▗▖  ▗▖▗▄▄▖ ▗▄▄▖ ▗▄▄▄▖ ▗▄▄▖ ▗▄▄▖▗▄▄▄▖ ▗▄▖ ▗▖  ▗▖
-▐▌   ▐▌ ▐▌▐▌     █  ▐▌         █  ▐▌       ▐▌    ▝▚▞▘ ▐▌ ▐▌▐▌ ▐▌▐▌   ▐▌   ▐▌     █  ▐▌ ▐▌▐▛▚▖▐▌
-▐▌   ▐▌ ▐▌▐▌▝▜▌  █  ▐▌         █   ▝▀▚▖    ▐▛▀▀▘  ▐▌  ▐▛▀▘ ▐▛▀▚▖▐▛▀▀▘ ▝▀▚▖ ▝▀▚▖  █  ▐▌ ▐▌▐▌ ▝▜▌
-▐▙▄▄▖▝▚▄▞▘▝▚▄▞▘▗▄█▄▖▝▚▄▄▖    ▗▄█▄▖▗▄▄▞▘    ▐▙▄▄▖▗▞▘▝▚▖▐▌   ▐▌ ▐▌▐▙▄▄▖▗▄▄▞▘▗▄▄▞▘▗▄█▄▖▝▚▄▞▘▐▌  ▐▌                                                                                                                         
-```
