@@ -39,7 +39,7 @@
 >   },
 >   "projects": [
 >     {
->       "name": "portfolio",
+>       "name": "virex.lol",
 >       "desc": "personal site. material 3 shell, photo gallery, url shortener, blog, and is way too configurable.",
 >       "lang": "react 19 + vite 6, tailwind 4",
 >       "license": "GPL-3.0",
@@ -60,11 +60,11 @@
 >       "status": "in development"
 >     },
 >     {
->       "name": "automate",
->       "desc": "A GNOME-first wayland autoclicker that actually works, made with python and Libadwaita!",
->       "lang": "python",
->       "license": "MIT",
->       "status": "near-finished"
+>       "name": "Keen",
+>       "desc": " a fast syntax checker and runner for C, C++, Go, Rust, and more. no config needed!",
+>       "lang": "Rust, bash",
+>       "license": "GPL-3.0",
+>       "status": "in development"
 >     },
 >     {
 >       "name": "virex-game-hud",
