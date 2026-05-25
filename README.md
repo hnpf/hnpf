@@ -80,7 +80,7 @@
 
 ---
 
-**languages**
+**Languages**
 
 ![Rust](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg)
 ![Go](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg)
@@ -91,7 +91,7 @@
 ![Tailwind](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg)
 ![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg)
 
-**environments**
+**Environments**
 
 ![Debian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg)
 ![Arch](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg)
@@ -101,11 +101,10 @@
 ![NPM](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg)
 
 
-**editors & tools**
+**Editors & Tools**
 
-![Micro](https://img.shields.io/badge/Micro-282828?style=flat-square&logo=microeditor&logoColor=b8bb26)
-![Neovim](https://img.shields.io/badge/Neovim-282828?style=flat-square&logo=neovim&logoColor=8ec07c)
-![VSCodium](https://img.shields.io/badge/VSCodium-282828?style=flat-square&logo=vscodium&logoColor=83a598)
-![GNOME Builder](https://img.shields.io/badge/GNOME_Builder-282828?style=flat-square&logo=gnome&logoColor=d3869b)
-![Git](https://img.shields.io/badge/Git-282828?style=flat-square&logo=git&logoColor=fb4934)
-![Docker](https://img.shields.io/badge/Docker-282828?style=flat-square&logo=docker&logoColor=458588)
+![Vim](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim2.svg)
+![Neovim](https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg)
+![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
+![AndroidStudio](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg)
+![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg)
