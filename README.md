@@ -17,18 +17,17 @@
 ---
 
 ```
-      .   .        marx @ virex.lol
+      .   .        virex@virex
      / \ / \       ---------------------------
     (   v   )      role:     semi-fullstack / systems / security
-     \     /       os:       nixos  /  arch  /  debian
-    /       \      wm:       hyprland  /  gnome  /  i3
-    \       /      editor:   vim, micro, zed, helix
-     '     '       status:   what's that
+     \     /       os:       arch linux
+    /       \      wm:       hyprland
+    \       /      editor:   nvim  /  vscodium 
+     '     '       
 ```
-
 ---
 
-> [!NOTE]
+>## BIO
 > ```json
 > {
 >   "user": "hnpf",
@@ -91,6 +90,8 @@
 ![Tailwind](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg)
 ![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg)
 
+---
+
 **Environments**
 
 ![Debian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg)
@@ -101,6 +102,8 @@
 ![NPM](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg)
 
 
+---
+
 **Editors & Tools**
 
 ![Vim](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim2.svg)
@@ -108,3 +111,7 @@
 ![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
 ![AndroidStudio](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg)
 ![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg)
+
+---
+[virex.lol](https://virex.lol) · [github](https://github.com/hnpf)
+---
