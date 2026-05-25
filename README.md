@@ -82,26 +82,24 @@
 
 **languages**
 
-![Rust](https://img.shields.io/badge/Rust-282828?style=flat-square&logo=rust&logoColor=fb4934)
-![Go](https://img.shields.io/badge/Go-282828?style=flat-square&logo=go&logoColor=8ec07c)
-![TypeScript](https://img.shields.io/badge/TypeScript-282828?style=flat-square&logo=typescript&logoColor=83a598)
-![JavaScript](https://img.shields.io/badge/JS-282828?style=flat-square&logo=javascript&logoColor=fabd2f)
-![C](https://img.shields.io/badge/C-282828?style=flat-square&logo=c&logoColor=fe8019)
-![Java](https://img.shields.io/badge/Java-282828?style=flat-square&logo=openjdk&logoColor=fe8019)
-![React](https://img.shields.io/badge/React-282828?style=flat-square&logo=react&logoColor=d3869b)
-![Tailwind](https://img.shields.io/badge/Tailwind-282828?style=flat-square&logo=tailwindcss&logoColor=83a598)
-![Bash](https://img.shields.io/badge/Bash-282828?style=flat-square&logo=gnu-bash&logoColor=b8bb26)
+![Rust](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg)
+![Go](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg)
+![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg)
+![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
+![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
+![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+![Tailwind](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg)
+![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg)
 
 **environments**
 
-![NixOS](https://img.shields.io/badge/NixOS-282828?style=flat-square&logo=nixos&logoColor=83a598)
-![Arch](https://img.shields.io/badge/Arch_Linux-282828?style=flat-square&logo=arch-linux&logoColor=458588)
-![Debian](https://img.shields.io/badge/Debian-282828?style=flat-square&logo=debian&logoColor=fb4934)
-![GNOME](https://img.shields.io/badge/GNOME-282828?style=flat-square&logo=gnome&logoColor=d3869b)
-![Hyprland](https://img.shields.io/badge/Hyprland-282828?style=flat-square&logo=hyprland&logoColor=8ec07c)
-![i3](https://img.shields.io/badge/i3-282828?style=flat-square&logo=i3&logoColor=fabd2f)
-![Fish](https://img.shields.io/badge/Fish-282828?style=flat-square&logo=fish-shell&logoColor=83a598)
-![Zsh](https://img.shields.io/badge/Zsh-282828?style=flat-square&logo=zsh&logoColor=fe8019)
+![Debian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg)
+![Arch](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg)
+![Tails](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos2.svg)
+![SQLite](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg)
+![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg)
+![NPM](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg)
+
 
 **editors & tools**
 
