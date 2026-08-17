@@ -11623,28 +11623,73 @@
         "height": 272
       },
       "config": {
-        "accentColor": "#b6a891"
+        "accentColor": "#b6a891",
+        "animationType": "fade-in",
+        "animationPreviewKey": 3
       },
       "locked": false,
       "visible": true,
       "zIndex": 7
     },
     {
-      "instanceId": "widget_1787008374452",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
+      "instanceId": "widget_1787008698473",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget",
       "position": {
-        "x": 448,
-        "y": 316
+        "x": 456,
+        "y": 314
       },
       "size": {
-        "width": 336,
-        "height": 272
+        "width": 320,
+        "height": 120
       },
-      "config": {},
+      "config": {
+        "customText": "VIREX",
+        "asciiFont": "block",
+        "charSpacing": 1,
+        "fontSize": 12,
+        "charset": "default",
+        "customCharset": "",
+        "asciiLines": [
+          "██    ██ ████████ ███████▄ ████████ ██    ██",
+          "██    ██    ██    ██    ██ ██        ▀████▀ ",
+          "██    ██    ██    ███████▀ ██████      ██   ",
+          " ▀████▀     ██    ██  ▀██▄ ██        ▄████▄ ",
+          "   ▀▀    ████████ ██    ██ ████████ ██    ██"
+        ]
+      },
       "locked": false,
       "visible": true,
-      "zIndex": 7
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1787008752651",
+      "widgetId": "stats",
+      "name": "Stats Widget",
+      "position": {
+        "x": 456,
+        "y": 434
+      },
+      "size": {
+        "width": 328,
+        "height": 152
+      },
+      "config": {
+        "hideMetrics": [
+          "forks",
+          "following"
+        ],
+        "statsLayout": "horizontal",
+        "statsStyle": "terminal",
+        "valueFontSize": 36,
+        "labelStyle": "icon",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "lockAspectRatio": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
     }
   ],
   "globalStyles": {
