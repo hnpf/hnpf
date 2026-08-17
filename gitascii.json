@@ -11626,7 +11626,8 @@
       "config": {
         "accentColor": "#b6a891",
         "animationType": "fade-in",
-        "animationPreviewKey": 3
+        "animationPreviewKey": 3,
+        "hideBorder": false
       },
       "locked": false,
       "visible": true,
@@ -11694,15 +11695,16 @@
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#080808",
-    "textColor": "#ffffff",
-    "accentColor": "#f3f4f6",
-    "borderColor": "#222222",
-    "fontFamily": "'Inter Tight', sans-serif",
-    "borderRadius": 8,
+    "backgroundColor": "#212830",
+    "textColor": "#d1d7e0",
+    "accentColor": "#f0f0f0",
+    "borderColor": "#3d444d",
+    "fontFamily": "JetBrains Mono",
+    "borderRadius": 19,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "minimal"
+    "templateStyle": "minimal",
+    "transparentBackground": true
   },
   "templateId": "minimal",
   "profileSlug": "default"
