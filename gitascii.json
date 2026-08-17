@@ -1,4 +1,5 @@
 {
+  "username": "hnpf",
   "widgets": [
     {
       "widgetId": "header",
@@ -11703,5 +11704,6 @@
     "themeMode": "dark",
     "templateStyle": "minimal"
   },
-  "templateId": "minimal"
+  "templateId": "minimal",
+  "profileSlug": "default"
 }
