@@ -103,7 +103,8 @@
           "github": "https://github.com/hnpf",
           "discord": "https://discord.com/invite/TSZNYbjzF7",
           "website": "https://virex.lol"
-        }
+        },
+        "badgeStyle": "for-the-badge"
       },
       "locked": false,
       "visible": true,
