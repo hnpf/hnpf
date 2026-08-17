@@ -11612,28 +11612,6 @@
       "zIndex": 8
     },
     {
-      "instanceId": "widget_1787008307440",
-      "widgetId": "godprofile-terminal",
-      "name": "Godprofile-terminal Widget",
-      "position": {
-        "x": 16,
-        "y": 314
-      },
-      "size": {
-        "width": 432,
-        "height": 272
-      },
-      "config": {
-        "accentColor": "#b6a891",
-        "animationType": "fade-in",
-        "animationPreviewKey": 3,
-        "hideBorder": false
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
-    },
-    {
       "instanceId": "widget_1787008698473",
       "widgetId": "ascii-text",
       "name": "Ascii-text Widget",
@@ -11692,12 +11670,33 @@
       "locked": false,
       "visible": true,
       "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1787009366446",
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": {
+        "x": 16,
+        "y": 314
+      },
+      "size": {
+        "width": 432,
+        "height": 272
+      },
+      "config": {
+        "customLanguages": "Typescript, Rust, Go, C",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
     }
   ],
   "globalStyles": {
     "backgroundColor": "#212830",
     "textColor": "#d1d7e0",
-    "accentColor": "#bd93f9",
+    "accentColor": "#f0f0f0",
     "borderColor": "#3d444d",
     "fontFamily": "JetBrains Mono",
     "borderRadius": 19,
