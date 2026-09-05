@@ -17,12 +17,12 @@
 ---
 
 ```
-      .   .        virex@virex
+      .   .        virex@virex-ws-lol
      / \ / \       ---------------------------
-    (   v   )      role:     semi-fullstack / systems / security
+    (   v   )      self:     semi-fullstack / music producer / cybersecurity
      \     /       os:       arch linux
-    /       \      wm:       hyprland
-    \       /      editor:   nvim  /  vscodium 
+    /       \      wm:       hyprland + riced p3drovfx quickshell conf
+    \       /      editor:   helix / vscodium 
      '     '       
 ```
 ---
@@ -33,46 +33,54 @@
 >   "user": "hnpf",
 >   "domain": "virex.lol",
 >   "stack": {
->     "languages": ["rust", "go", "typescript", "c", "javascript", "java"],
->     "frontend": ["react", "tailwind", "material-3-expressive"],
->     "infra": ["nixos", "debian", "docker", "self-hosted"]
+>     "languages": ["rust", "go", "typescript", "c", "java"],
+>     "frontend": ["react", "tailwind", "material_expressive"],
+>     "infra": ["nixos", "debian", "docker", "self-hosting"]
 >   },
 >   "projects": [
 >     {
 >       "name": "virex.lol",
->       "desc": "personal site. material 3 shell, photo gallery, url shortener, blog, and is way too configurable.",
+>       "desc": "personal website. uses a material 3 expressive styled shell, has a photo gallery, blog, and tons of customization options.",
 >       "lang": "react 19 + vite 6, tailwind 4",
 >       "license": "GPL-3.0",
->       "status": "in production"
+>       "status": "actively maintained"
 >     },
 >     {
->       "name": "canopy",
->       "desc": "A Rust tool to see your files in a unique and clean structure!",
+>       "name": "torr",
+>       "desc": "torr is a git-like bittorrent client, has no gui, no unnecessary bloat and distractions, just porcelain commands over a true wire protocol implementation.",
 >       "lang": "rust",
 >       "license": "GPL-3.0",
->       "status": "in development - postponed"
+>       "status": "actively developed!"
 >     },
 >     {
->       "name": "vclitools",
->       "desc": "A collection of handy CLI tools for humans who hate typing.",
->       "lang": "shell",
+>       "name": "automate",
+>       "desc": "A GNOME-first wayland autoclicker that actually works, made with python and Libadwaita",
+>       "lang": "python + gtk4.0",
 >       "license": "MIT",
->       "status": "in development"
+>       "status": "occasional changes and commits"
 >     },
 >     {
->       "name": "Keen",
->       "desc": " a fast syntax checker and runner for C, C++, Go, Rust, and more. no config needed!",
->       "lang": "Rust, bash",
+>       "name": "cocode",
+>       "desc": "a universal multiplexer and wrapper for terminal based coding agents like claude code, Agy, Codex, and Kimi.",
+>       "lang": "rust",
+>       "license": "AGPL-3.0",
+>       "status": "occasional changes and commits"
+>     },
+>     {
+>       "name": "AboutThisLinux",
+>       "desc": "Your own computer, but make it look scarily close to macOS.",
+>       "lang": "python",
 >       "license": "GPL-3.0",
->       "status": "in development"
+>       "status": "occasional changes and commits"
 >     },
 >     {
->       "name": "virex-game-hud",
->       "desc": "a material 3 expressive game overlay ui framework, and totally not a cheat ui. tailwind css, html, js.",
->       "lang": "js, css",
->       "license": "MIT",
->       "status": "near-finished"
+>       "name": "conspiracy.blog",
+>       "desc": "a minimalist, dark-themed blog engine, built with react and tsx.",
+>       "lang": "react + tailwind",
+>       "license": "GPL-3.0",
+>       "status": "occasional changes and commits"
 >     },
+
 >   ]
 > }
 > ```
