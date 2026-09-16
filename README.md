@@ -102,6 +102,7 @@
 ---
 
 **Environments**
+
 ![SQLite](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg)
 ![Cloudflare](https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg)
 ![NPM](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg)
@@ -110,6 +111,7 @@
 --- 
 
 **OS**
+
 ![Debian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg)
 ![Arch](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg)
 
