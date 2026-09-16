@@ -82,7 +82,6 @@
 >       "license": "GPL-3.0",
 >       "status": "feature-complete"
 >     },
-
 >   ]
 > }
 > ```
