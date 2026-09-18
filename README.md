@@ -90,6 +90,8 @@
 
 **Languages**
 
+<!-- Check out my coreIcons library: "https://mauriciospark.github.io/coreIcons/"-->
+<img src="https://mauriciospark.github.io/coreIcons/fotos/github.png" height="45" alt="github logo"/>
 ![Rust](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg)
 ![Go](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg)
 ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
