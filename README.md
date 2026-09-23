@@ -33,7 +33,7 @@
 > ```json
 > {
 >   "user": "hnpf",
->   "domain": "virex.lol",
+>   "domain": "stabbed.wtf",
 >   "stack": {
 >     "languages": ["rust", "go", "typescript", "c", "python"],
 >     "frontend": ["css", "react", "tailwind"],
@@ -41,7 +41,7 @@
 >   },
 >   "projects": [
 >     {
->       "name": "virex.lol",
+>       "name": "stabbed.wtf",
 >       "desc": "personal website. uses a material 3 expressive styled shell, has a photo gallery, blog, and tons of customization options.",
 >       "lang": "react 19 + vite 6, tailwind 4",
 >       "license": "GPL-3.0",
@@ -77,7 +77,7 @@
 >     },
 >     {
 >       "name": "conspiracy.blog",
->       "desc": "a minimalist, dark-themed blog site, built from scratch as a frontend showcase alongside virex.lol, using react and tsx.",
+>       "desc": "a minimalist, dark-themed blog site, built from scratch as a frontend showcase alongside stabbed.wtf, using react and tsx.",
 >       "lang": "react + tailwind",
 >       "license": "GPL-3.0",
 >       "status": "feature-complete"
@@ -117,4 +117,4 @@
 ![Arch](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg)
 
 ---
-[virex.lol](https://virex.lol) · [github](https://github.com/hnpf)
+[stabbed.wtf](https://stabbed.wtf) · [github](https://github.com/hnpf)
